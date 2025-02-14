@@ -102,21 +102,6 @@ hr{
     font-size: 18px;
 }
 
-/* .time-box {
-    background: rgba(255, 223, 0, 0.2);
-    padding: 15px 25px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(255, 223, 0, 0.6);
-    text-align: center;
-    min-width: 100px;
-}
-
-.time-box span {
-    font-size: 32px;
-    font-weight: bold;
-    display: block;
-    color: #ffd700;
-} */
 
 .table-container {
     overflow-x: auto;
@@ -135,7 +120,7 @@ table {
 
 table th, table td {
     padding: 15px;
-    border: 2px solid #034ea2;
+    border: 1px solid #034ea2;
     text-align: center;
 }
 
