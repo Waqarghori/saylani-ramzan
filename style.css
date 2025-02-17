@@ -241,6 +241,9 @@ footer {
     table {
         font-size: 14px;
     }
+    table th, table td {
+        font-size: 12px;
+    }
     .today-time {
         width: 80%;
     }
