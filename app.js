@@ -41,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
         "14 Feb 2025": { day: "2", sehri: "05:36 AM", iftar: "6:36 PM" },
         "15 Feb 2025": { day: "3", sehri: "05:35 AM", iftar: "6:37 PM" },
         "16 Feb 2025": { day: "4", sehri: "05:34 AM", iftar: "6:37 PM" },
-        "17 Feb 2025": { day: "5", sehri: "05:33 AM", iftar: "6:38 PM" },
+        "17 Feb 2025": { day: "5", sehri: "5:33:35 AM", iftar: "6:38:45 PM" },
         "18 Feb 2025": { day: "6", sehri: "05:32 AM", iftar: "6:38 PM" },
         "19 Feb 2025": { day: "7", sehri: "05:31 AM", iftar: "6:39 PM" },
         "20 Feb 2025": { day: "8", sehri: "05:30 AM", iftar: "6:39 PM" },
