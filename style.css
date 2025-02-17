@@ -232,7 +232,8 @@ footer {
 
 @media (max-width: 768px) {
     header {
-        padding: 40px;
+        padding: 30px 10px;
+        justify-content: space-between;
     }
     .time-box {
         min-width: 80%;
@@ -243,9 +244,10 @@ footer {
     .today-time {
         width: 80%;
     }
-#btn {
-    padding: 6px 12px;
-    font-size: 12px;
+  #btn {
+    padding: 9px 18px;
+    font-size: 15px;
+    font-weight: bold;
 }
 .logo img {
     width: 150px;
