@@ -192,7 +192,7 @@ footer {
 }
 
 .contacts p {
-    font-size: 16px;
+    font-size: 14px;
     line-height: 1.6;
     margin: 5px 0;
 }
@@ -241,9 +241,7 @@ footer {
     table {
         font-size: 14px;
     }
-    /* table th, table td {
-        font-size: 12px;
-    } */
+
     .today-time {
         width: 80%;
     }
@@ -252,9 +250,7 @@ footer {
     font-size: 15px;
     font-weight: bold;
 }
-/* .container{
-    padding: 5px;
-} */
+
 .logo img {
     width: 150px;
 }
