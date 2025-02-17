@@ -241,9 +241,9 @@ footer {
     table {
         font-size: 14px;
     }
-    table th, table td {
+    /* table th, table td {
         font-size: 12px;
-    }
+    } */
     .today-time {
         width: 80%;
     }
@@ -252,9 +252,9 @@ footer {
     font-size: 15px;
     font-weight: bold;
 }
-.container{
+/* .container{
     padding: 5px;
-}
+} */
 .logo img {
     width: 150px;
 }
