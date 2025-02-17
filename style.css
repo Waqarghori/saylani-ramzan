@@ -252,6 +252,9 @@ footer {
     font-size: 15px;
     font-weight: bold;
 }
+.container{
+    padding: 5px;
+}
 .logo img {
     width: 150px;
 }
