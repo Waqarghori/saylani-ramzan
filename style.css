@@ -2,6 +2,9 @@
     font-weight: bold;
     font-family: serif;
 }
+a {
+    text-decoration: none;
+}
 th{
     font-size: 18px;
 }
@@ -19,12 +22,17 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px;
+    padding: 20px 30px;
     color: black;
     font-size: 24px;
     /* text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); */
 }
+#btn a {
+    font-weight: bolder;
+    color: white;
+}
 #btn {
+    
     background-color: #61bb46;
     color: white;
     font-size: 18px;
@@ -136,7 +144,9 @@ table tr:nth-child(even) {
 
 
 @media (max-width: 768px) {
-
+    header {
+        padding: 20px;
+    }
     .time-box {
         min-width: 80%;
     }
